@@ -60,7 +60,6 @@ mdp_drv_mt6983.ko
 cmdq_helper_inf.ko
 mtk-mml.ko
 mtk-mml-mt6983.ko
-hwconf_manager.ko
 mtk_panel_ext.ko
 mediatek-drm-gateic.ko
 mediatek-drm-panel-drv.ko
